@@ -1,0 +1,12 @@
+scientificName
+Mormoops blainvillii (Leach, 1821)
+Mormoops magna (Silva-Taboada, 1974)
+Mormoops megalophylla (Peters, 1864)
+Pteronotus macleayii (Gray, 1839)
+Pteronotus personatus (Wagner, 1843)
+Pteronotus quadridens (Gundlach, 1860)
+Pteronotus paraguanensis (Linares & Ojasti, 1974)
+Pteronotus parnellii (Gray, 1843)
+Pteronotus pristinus† (Silva-Taboada, 1974)
+Pteronotus davyi (Gray, 1838)
+Pteronotus gymnonotus (Natterer, 1843)
