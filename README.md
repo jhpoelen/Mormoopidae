@@ -14,8 +14,10 @@ taxonomies:
       name: Integrated Taxonomic Information System
     - id: ncbi
       name: NCBI Taxonomy
-    - id: globi
-      name: GloBI Taxon Graph
+    - id: batnames
+      name: Bat Names
+    - id: ott
+      name: Open Tree of Life Taxonomy
 ---
 
 # Name Alignment
