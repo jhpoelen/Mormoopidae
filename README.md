@@ -18,8 +18,8 @@ taxonomies:
       name: Bat Names
     - id: ott
       name: Open Tree of Life Taxonomy
-    - id: plazi
-      name: Plazi Treatments
+#    - id: plazi
+#      name: Plazi Treatments
 ---
 
 # Name Alignment
